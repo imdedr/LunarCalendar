@@ -1,6 +1,6 @@
 # encoding: utf-8
 
-require "lunar_calendar/version"
+#require "lunar_calendar/version"
 require "lunar_calendar/lunar_date"
 
 module LunarCalendar
