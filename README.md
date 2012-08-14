@@ -1,6 +1,6 @@
 # LunarCalendar
 
-TODO: 以前写的，今天弄出来spec测试下发现还有个大BUG。。。日期转换结果不正确
+TODO: 以前写的，一些代码直接从JS的库中弄来的，今天弄出来spec测试下发现还有个大BUG。。。日期转换结果不正确
 以后有时间再改了。。。
 
 ## Installation
