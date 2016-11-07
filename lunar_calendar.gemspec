@@ -4,8 +4,8 @@ require File.expand_path('../lib/lunar_calendar/version', __FILE__)
 Gem::Specification.new do |gem|
   gem.authors       = ["xiejiangzhi"]
   gem.email         = ["xiejiangzhi@gmail.com"]
-  gem.description   = %q{TODO: Write a gem description}
-  gem.summary       = %q{TODO: Write a gem summary}
+  gem.description   = "No Desc"
+  gem.summary       = "No Summary"
   gem.homepage      = ""
 
   gem.files         = `git ls-files`.split($\)
